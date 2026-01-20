@@ -12,7 +12,7 @@ This final practical chapter documents troubleshooting scenarios that happened d
 
 The scenarios presented here are based on issues that appeared during real work, not on made-up examples. They reflect realistic problems that can affect routing, management access, or core network services.
 
-A total of four independent problems are analyzed to confirm that the network returns to a stable and fully operational state after each fix.
+A total of three independent problems are analyzed to confirm that the network returns to a stable and fully operational state after each fix.
 
 <br>
 
