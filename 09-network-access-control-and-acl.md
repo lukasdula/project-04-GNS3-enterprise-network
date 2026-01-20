@@ -72,7 +72,7 @@ The purpose of this section is to demonstrate a simple remote administration wor
 
 <br>
 
-### **SSH Configuration – BR1-EDGE-R4
+### **SSH Configuration – BR1-EDGE-R4**
 
 This first configuration enables SSH access on the headquarters edge router. Local user authentication is used for both console and remote access.
 
