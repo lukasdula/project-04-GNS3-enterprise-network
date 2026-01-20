@@ -174,4 +174,4 @@ The presented topology provides a solid foundation for further configuration of 
 
 <br>
 
-**Next Chapter:**
+**Next Chapter:** [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)
