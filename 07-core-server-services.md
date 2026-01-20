@@ -666,9 +666,10 @@ dnsmasq runs on HQ-SRV-INFRA-01 and provides internal name resolution for the co
 
 Rsyslog is used in this project to centralize log messages from network devices on a single infrastructure server. This allows administrators to detect network issues, interface failures, and redundancy events without direct access to individual devices. Centralized logging improves troubleshooting, auditing, and overall network visibility.
 
-
+<br>
 
 ### **Rsyslog Installation and Configuration (HQ-SRV-INFRA-01)**
+
 
 **Install the rsyslog service on the infrastructure server:**
 
@@ -748,6 +749,7 @@ A physical or administrative shutdown is performed **on interface Gi0/0 of HQ-CO
 After shutting down the Gi0/0 interface on the primary core router, VRRP state changes were logged on the infrastructure server.  
 The backup router successfully transitioned to the MASTER role for all VRRP groups, ensuring uninterrupted gateway availability.
 
+---
 
 <br>
 
