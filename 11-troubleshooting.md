@@ -18,7 +18,7 @@ A total of three independent problems are analyzed to confirm that the network r
 
 ## **11.2 Topology Diagram**
 
-![](images/Pasted%20image%2020260119231743.png)
+![](images/Pasted%20image%2020260120034004.png)
 
 
 <br>
