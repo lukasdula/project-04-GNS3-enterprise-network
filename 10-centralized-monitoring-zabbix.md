@@ -186,13 +186,13 @@ The purpose of this scenario is to show how Zabbix identifies a single-server ou
 
 The following dashboard view captures the state of the monitoring system shortly after the infrastructure server becomes unavailable:
 
-- **Current problems** widget reports that the Zabbix agent on the HQ-SRV-INFRA-01 is not available
+- Current problems widget reports that the Zabbix agent on the HQ-SRV-INFRA-01 is not available
     
 - Host availability widget shows one Zabbix agent in the _Not available_ state
     
-- **Problems by level** shows an active _Average_ level problem
+- Problems by level shows an active _Average_ level problem
     
-- **Network map** highlights the affected HQ-SRV-INFRA-01 while all other devices stay operational
+- Network map highlights the affected HQ-SRV-INFRA-01 while all other devices stay operational
     
 
 <br>
@@ -326,11 +326,11 @@ The purpose of this scenario is to show basic storage capacity monitoring and to
 
 After the disk usage threshold is exceeded, Zabbix automatically detects the condition and displays it using existing monitoring components:
 
-- The **Current problems** widget reports a low disk space issue on INFRA-SRV-01 with _Average_ severity
+- The Current problems widget reports a low disk space issue on INFRA-SRV-01 with _Average_ severity
     
-- The **Problem hosts** widget shows one Linux server with an active problem
+- The Problem hosts widget shows one Linux server with an active problem
     
-- The **network map** highlights the infrastructure server, while all other devices stay in an OK state
+- The network map highlights the infrastructure server, while all other devices stay in an OK state
     
 - Host availability remains unchanged, as the server itself is still reachable and operational
     
