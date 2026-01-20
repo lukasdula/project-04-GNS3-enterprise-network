@@ -77,7 +77,7 @@ Operational testing and troubleshooting are based on real issues that appeared d
 <br>
 
 
-**Back to project overview:** 
+**Back to project overview:** [README](README.md)
 
 
 
