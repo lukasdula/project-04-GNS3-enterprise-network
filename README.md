@@ -16,7 +16,7 @@ The main objective is to demonstrate how routing, services, and management opera
 
 Inter-site communication is implemented between Headquarters and Branch to provide full reachability across internal networks. Dynamic routing enables consistent connectivity, while NAT and PAT provide controlled Internet access from both locations without affecting internal communication. High availability at the Headquarters site is ensured using VRRP on core routers, providing default gateway redundancy for key VLANs. Remote administration is demonstrated from a SOHO-based admin workstation using SSH and PuTTY.
 
-The infrastructure includes two internal servers with distinct roles. One server delivers core services such as DHCP, DNS (dnsmasq), HTTP (Apache2), and centralized logging using rsyslog, while the second server supports centralized monitoring and operational visibility. Overall, the project presents a practical enterprise model that connects network design, services, monitoring, and real operational use into a single consistent solution.
+The infrastructure includes two internal servers with distinct roles. One server delivers core network services such as DHCP, DNS (dnsmasq), HTTP (Apache2), and centralized logging using rsyslog. The second server is dedicated to centralized monitoring and operational visibility using Zabbix, providing real-time insight into network devices, services, and overall system health across both sites. Overall, the project presents a practical enterprise model that integrates network design, core services, centralized monitoring, and real operational use into a single, consistent solution.
 
 
 <br>
