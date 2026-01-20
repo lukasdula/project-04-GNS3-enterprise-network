@@ -20,7 +20,7 @@ Zabbix then acts as the central monitoring platform, presenting data through das
 
 ## **10.2 Topology diagram**
 
-![](images/Pasted%20image%2020260119205506.png)
+![](images/Pasted%20image%2020260120034257.png)
 
 
 <br>
