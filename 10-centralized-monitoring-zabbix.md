@@ -146,7 +146,7 @@ All critical network devices are added to Zabbix to provide basic availability a
 
 <br>
 
-### **Monitored Infrastructure – Device List**
+### **Monitored Infrastructure - Device List**
 
 ![](images/Pasted%20image%2020260119062342.png)
 
@@ -204,7 +204,7 @@ This combination of widgets provides a clear and immediate overview of the incid
 
 <br>
 
-## **10.7 Scenario 2 – Edge Router Failure**
+## **10.7 Scenario 2 - Edge Router Failure**
 
 
 ### Overview
@@ -243,7 +243,7 @@ The dashboard view below shows the monitoring state shortly after the edge route
 
 <br>
 
-## **10.8 Scenario 3 – Access Switch Port Down**
+## **10.8 Scenario 3 - Access Switch Port Down**
 
 ### Overview
 
@@ -310,7 +310,7 @@ This helps clearly separate a **service outage** from a **server or network issu
 <br>
 
 
-## **10.10 Scenario 5 – Low Disk Space Warning**
+## **10.10 Scenario 5 - Low Disk Space Warning**
 
 ### Overview
 
