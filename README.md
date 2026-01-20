@@ -65,29 +65,29 @@ The infrastructure includes two internal servers with distinct roles. One server
 
 ## **Project Structure**
 
-1. Network Topology and Devices
+1. [Network Topology and Devices](01-network-topology-and-devices.md)
     
-2. Addressing and VLAN Planning
+2. [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)
     
-3. Basic Device Configuration
+3. [Basic Device Configuration](03-basic-device-configuration.md)
     
-4. Switching and VLAN Configuration
+4. [Switching and VLAN Configuration](04-switching-and-vlan-configuration.md)
     
-5. Inter VLAN Routing and VRRP
+5. [Inter VLAN Routing and VRRP](05-inter-vlan-routing-and-vrrp.md)
     
-6. GRE Tunnels and Site Connectivity
+6. [GRE Tunnels and Site Connectivity](06-gre-tunnels-and-site-connectivity.md)
     
-7. Core Server Services
+7. [Core Server Services](07-core-server-services.md)
     
-8. NAT and PAT Configuration
+8. [NAT and PAT Configuration](08-nat-pat-configuration.md)
     
-9. Network Access Control and ACL
+9. [Network Access Control and ACL](09-network-access-control-and-acl.md)
     
-10. Centralized Monitoring Zabbix
+10. [Centralized Monitoring Zabbix](10-centralized-monitoring-zabbix.md)
     
-11. Troubleshooting
+11. [Troubleshooting](11-troubleshooting.md)
     
-12. Conclusion and Summary
+12. [Conclusion and Summary](12-conclusion-and-summary.md)
 
 
 <br>
