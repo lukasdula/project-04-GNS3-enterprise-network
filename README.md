@@ -151,6 +151,7 @@ The infrastructure includes two internal servers with distinct roles. One server
 
 
 <br>
+
 ## **Author’s Note** 
 
 This enterprise project was the biggest challenge in my learning journey. It was my first time working with two separate parts of a company network, the Headquarters site and the Branch site, and making them operate as one system. Bringing services like DHCP and full connectivity across a GRE tunnel between both sites was challenging, but very satisfying once everything worked correctly.
