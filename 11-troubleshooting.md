@@ -378,4 +378,4 @@ The next chapter provides a clear overview of all project chapters and explains 
 
 <br>
 
-**Final Chapter:**
+**Final Chapter:** [Conclusion and Summary](12-conclusion-and-summary.md)
