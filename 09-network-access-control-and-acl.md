@@ -694,4 +694,4 @@ Verification confirms that allowed communication works as expected and unwanted 
 <br>
 
 
-**Next Chapter:**
+**Next Chapter:** [Centralized Monitoring Zabbix](10-centralized-monitoring-zabbix.md)
