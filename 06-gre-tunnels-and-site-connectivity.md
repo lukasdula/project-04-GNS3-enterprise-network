@@ -317,4 +317,5 @@ This chapter completed the site-to-site connectivity between Headquarters and Br
 
 
 <br>
-**Next Chapter:**
+
+**Next Chapter:** [Core Server Services](07-core-server-services.md)
