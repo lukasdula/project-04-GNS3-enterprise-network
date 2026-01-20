@@ -44,7 +44,7 @@ Operational testing and troubleshooting are based on real issues that appeared d
 4. [Switching and VLAN Configuration](04-switching-and-vlan-configuration.md) 
     VLANs are configured on all switches, with access and trunk ports assigned according to the design. Rapid Spanning Tree Protocol, PortFast, BPDU Guard, and link aggregation are applied to ensure stable Layer 2 connectivity and protect the switching environment.
     
-5. *[Inter VLAN Routing and VRRP](05-inter-vlan-routing-and-vrrp.md)
+5. [Inter VLAN Routing and VRRP](05-inter-vlan-routing-and-vrrp.md)
     Inter-VLAN routing is implemented using 802.1Q subinterfaces on the headquarters core routers. OSPF supports dynamic routing within the site, while VRRP provides default gateway redundancy for user VLANs, ensuring continuous access during gateway failures.
     
 6. [GRE Tunnels and Site Connectivity](06-gre-tunnels-and-site-connectivity.md) 
