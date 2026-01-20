@@ -106,7 +106,7 @@ write
 
 <br>
 
-### **SSH Configuration – BR1-DIST-SW-01 (VLAN 99)
+### **SSH Configuration – BR1-DIST-SW-01 (VLAN 99)**
 
 This configuration enables SSH access on a branch distribution switch using the management VLAN.
 
