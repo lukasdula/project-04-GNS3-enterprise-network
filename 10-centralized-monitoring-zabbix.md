@@ -60,7 +60,7 @@ The same SNMP configuration is applied to all core routers, edge routers, and sw
 
 This router represents a typical monitored network device. SNMP access is protected by the community string `zabbix-mon` configured with read-only (RO) permissions. The router uses a loopback interface as the management and monitoring IP address.
 
-*For verification purposes, the SNMP configuration can be checked using the command `show running-config | section snmp` or `show snmp`
+>For verification purposes, the SNMP configuration can be checked using the command `show running-config | section snmp` or `show snmp`
 
 
 <br>
