@@ -787,5 +787,5 @@ In this chapter, core infrastructure services were deployed and tested within th
 
 <br>
 
-**Next Chapter:**
+**Next Chapter:** [NAT and PAT Configuration](08-nat-pat-configuration.md)
 
