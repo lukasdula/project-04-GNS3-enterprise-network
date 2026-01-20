@@ -25,7 +25,7 @@ Operational testing and troubleshooting are based on real issues that appeared d
 ## **Topology Diagram**
 
 
-![](images/Pasted%20image%2020260119234715.png)
+![](images/Pasted%20image%2020260120033543.png)
 
 
 <br>
