@@ -1172,4 +1172,4 @@ All routing components are now correctly prepared for GRE tunnel deployment. Int
 
 <br>
 
-**Next Chapter:**
+**Next Chapter:** [GRE Tunnels and Site Connectivity](06-gre-tunnels-and-site-connectivity.md)
