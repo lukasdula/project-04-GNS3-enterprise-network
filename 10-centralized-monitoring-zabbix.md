@@ -337,7 +337,9 @@ After the disk usage threshold is exceeded, Zabbix automatically detects the con
 
 
 ### **Dashboard showing active "Low disk space on INFRA-SRV-01" problem:**
+
 <br>
+
 ![](images/Pasted%20image%2020260119200839.png)
 
 
