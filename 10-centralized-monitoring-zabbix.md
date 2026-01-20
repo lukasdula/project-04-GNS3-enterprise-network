@@ -366,4 +366,5 @@ The final practical chapter focuses on real issues found during the project and 
 
 
 <br>
-**Next Chapter:**
+
+**Next Chapter:** [Troubleshooting](11-troubleshooting.md)
