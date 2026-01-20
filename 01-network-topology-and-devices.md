@@ -15,6 +15,8 @@ Wide area connectivity is provided by edge routers at each location. Inter-site 
 
 This chapter describes the topology diagram, network zones, device roles, and connection structure that support routing, resiliency, and infrastructure services configured in later chapters.
 
+>**Note.:** Due to limitations of Cisco virtual switch images in GNS3, the lab uses a reduced number of switch interfaces. This configuration logic is applied across the network.
+
 <br>
 
 ## **1.2  Topology Diagram**
