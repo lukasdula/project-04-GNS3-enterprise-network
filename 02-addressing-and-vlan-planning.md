@@ -143,4 +143,4 @@ The resulting addressing scheme supports scalability, readability, and straightf
 
 <br>
 
-**Next Chapter:**
+**Next Chapter:** [Basic Device Configuration](03-basic-device-configuration.md)
