@@ -23,7 +23,7 @@ All routers and switches receive consistent hostnames, and IPv4 addresses are co
 
 ## **3.3 Objectives**
 
-1. 1. Assign static IPv4 addresses to infrastructure servers and selected network devices, including management, monitoring, and printer segments.
+1. Assign static IPv4 addresses to infrastructure servers and selected network devices, including management, monitoring, and printer segments.
     
 2. Configure hostnames on all routers and switches to ensure consistent device identification across the topology.
     
