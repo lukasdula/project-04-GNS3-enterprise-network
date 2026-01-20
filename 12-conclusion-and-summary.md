@@ -32,37 +32,37 @@ Operational testing and troubleshooting are based on real issues that appeared d
 
 ## **Project Overview**
 
-1. **Network Topology and Devices**  
+1. [Network Topology and Devices](01-network-topology-and-devices.md)
     The project begins with the definition of an enterprise topology for Headquarters and Branch sites. Core, distribution, and access roles are assigned to routers and switches within a layered design that establishes a clear physical and logical foundation for scalability, redundancy, and role separation.
     
-2. **Addressing and VLAN Planning**  
+2. [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md) 
     IPv4 addressing and VLAN segmentation separate infrastructure, management, monitoring, servers, and user networks. Subnet sizes reflect network purpose and expected host counts. VLAN 99 is reserved for centralized management across both sites.
     
-3. **Basic Device Configuration**  
+3. [Basic Device Configuration](03-basic-device-configuration.md)
     Baseline configuration is applied to all routers and switches, including hostnames, interface addressing, port descriptions, and basic administrative settings. This chapter provides a consistent and stable starting point for further configuration.
     
-4. **Switching and VLAN Configuration**  
+4. [Switching and VLAN Configuration](04-switching-and-vlan-configuration.md) 
     VLANs are configured on all switches, with access and trunk ports assigned according to the design. Rapid Spanning Tree Protocol, PortFast, BPDU Guard, and link aggregation are applied to ensure stable Layer 2 connectivity and protect the switching environment.
     
-5. **Inter-VLAN Routing and VRRP**  
+5. *[Inter VLAN Routing and VRRP](05-inter-vlan-routing-and-vrrp.md)
     Inter-VLAN routing is implemented using 802.1Q subinterfaces on the headquarters core routers. OSPF supports dynamic routing within the site, while VRRP provides default gateway redundancy for user VLANs, ensuring continuous access during gateway failures.
     
-6. **GRE Tunnels and Site Connectivity**  
+6. [GRE Tunnels and Site Connectivity](06-gre-tunnels-and-site-connectivity.md) 
     Headquarters and Branch networks are interconnected through a GRE tunnel over a simulated ISP. OSPF exchanges routing information across the tunnel, enabling reliable inter-site connectivity and shared services between locations.
     
-7. **Core Server Services**  
+7. [Core Server Services](07-core-server-services.md) 
     Centralized infrastructure services are deployed on internal servers. DHCP assigns addresses using relay, DNS services are provided by dnsmasq, HTTP access runs on Apache2, and logging Rsyslog supports monitoring and troubleshooting activities.
     
-8. **NAT/PAT Configuration**  
+8. [NAT and PAT Configuration](08-nat-pat-configuration.md) 
     NAT and PAT are configured on both headquarters and branch edge routers to provide controlled Internet access for internal networks. Address translation is verified without disrupting internal routing or inter-site communication.
     
-9. **Network Access Control and ACL**  
+9. [Network Access Control and ACL](09-network-access-control-and-acl.md)
     Remote administrative access is demonstrated using PuTTY and SSH from a Remote-Admin (SOHO) workstation into the enterprise network. Secure access to branch routers and switches is verified before Access Control Lists apply a basic security baseline across both sites.
     
-10. **Centralized Monitoring – Zabbix**  
+10. [Centralized Monitoring Zabbix](10-centralized-monitoring-zabbix.md)
     Centralized monitoring is implemented using Zabbix. Five monitoring scenarios are validated, covering device availability, interface status, ICMP reachability, service monitoring, and inter-site connectivity, ensuring continuous visibility into network health.
     
-11. **Troubleshooting**  
+11. [Troubleshooting](11-troubleshooting.md)
     This chapter documents four real issues that appeared during the network build. Problems related to routing, NAT/PAT operation, and management return paths are identified, fixed, and verified, demonstrating a structured troubleshooting approach.
     
 
