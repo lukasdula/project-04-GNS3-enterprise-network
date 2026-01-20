@@ -314,7 +314,7 @@ This helps clearly separate a **service outage** from a **server or network issu
 
 ### Overview
 
-This last scenario demonstrates a disk space issue on the infrastructure server **INFRA-SRV-01**. The root filesystem (/) is used close to its capacity to verify that Zabbix detects and reports a low disk space condition.12345
+This last scenario demonstrates a disk space issue on the infrastructure server **INFRA-SRV-01**. The root filesystem (/) is used close to its capacity to verify that Zabbix detects and reports a low disk space condition.
 
 The purpose of this scenario is to show basic storage capacity monitoring and to confirm that disk-related problems are detected separately from service or availability issues.
 
