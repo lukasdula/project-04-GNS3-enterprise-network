@@ -156,7 +156,7 @@ The infrastructure includes two internal servers with distinct roles. One server
 
 This enterprise project was the biggest challenge in my learning journey. It was my first time working with two separate parts of a company network, the Headquarters site and the Branch site, and making them operate as one system. Bringing services like DHCP and full connectivity across a GRE tunnel between both sites was challenging, but very satisfying once everything worked correctly.
 
-Centralized monitoring was an important new experience for me. Using Zabbix in an enterprise model and visually observing warnings, outages, and network behavior helped me understand the network much better. Centralized logging with rsyslog also added more visibility and control over the infrastructure.
+Centralized monitoring was an important new experience for me. Using Zabbix in an enterprise model and visually observing warnings, outages, and network operation helped me understand the network much better. Centralized logging with rsyslog also added more visibility and control over the infrastructure.
 
 This project brings together everything I learned in previous projects. I am proud of the network diagram, designed purely by logic without using external inspiration. Despite challenges, including the Zabbix installation and real issues described in the troubleshooting chapter, the project was completed successfully. In 2026, this project represents a strong step forward in my understanding of enterprise networking and monitoring.
 
