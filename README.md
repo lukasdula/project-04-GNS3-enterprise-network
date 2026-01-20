@@ -10,7 +10,7 @@
 
 Cisco-based advanced network built in GNS3 as part of a study portfolio. 
 
-This project represents an enterprise network model simulating a real organization with a central Headquarters site and a remote Branch site. The design is based on realistic Layer 2 and Layer 3 architecture and extends toward application-level services used in real network operation.
+This project represents an enterprise network model simulating a real organization with a central Headquarters site and a remote Branch site. The design is based on a realistic Layer 2 and Layer 3 architecture using the OSI model and extends toward application-level services used in real network operation.
 
 The main objective is to demonstrate how routing, services, and management operate consistently across multiple locations using an enterprise design. The project focuses on inter-site connectivity through a GRE tunnel and centralized monitoring with Zabbix, ensuring that services and network visibility are available across both Headquarters and Branch sites. Headquarters acts as the central hub of the network, while the Branch site represents a fully integrated remote office.
 
