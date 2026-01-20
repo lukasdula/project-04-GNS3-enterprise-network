@@ -997,4 +997,4 @@ The topology is prepared for Layer 2 configuration, including VLAN creation, tru
 <br>
 
 
-**Next Chapter:**
+**Next Chapter:** [Switching and VLAN Configuration](04-switching-and-vlan-configuration.md)
