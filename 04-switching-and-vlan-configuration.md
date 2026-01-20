@@ -832,4 +832,4 @@ With VLANs, trunks, access ports, PortFast, BPDU Guard, and RSTP correctly confi
 
 <br>
 
-**Next Chapter:**
+**Next Chapter:** [Inter VLAN Routing and VRRP](05-inter-vlan-routing-and-vrrp.md)
