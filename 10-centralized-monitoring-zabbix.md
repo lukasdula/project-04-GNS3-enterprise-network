@@ -182,7 +182,7 @@ The purpose of this scenario is to show how Zabbix identifies a single-server ou
 
 <br>
 
-### **Monitoring View**
+### **Monitoring View:**
 
 The following dashboard view captures the state of the monitoring system shortly after the infrastructure server becomes unavailable:
 
@@ -217,7 +217,7 @@ The purpose of this scenario is to show how a single network device failure can 
 <br><br>
 
 
-### **Monitoring View**
+### **Monitoring View:**
 
 The dashboard view below shows the monitoring state shortly after the edge router outage:
 
@@ -256,7 +256,7 @@ The purpose of this scenario is to demonstrate that Zabbix can clearly show a po
 
 <br>
 
-### **Monitoring View**
+### **Monitoring View:**
 
 - The network map highlights the access switch with a port in a warning state
     
@@ -322,7 +322,7 @@ The purpose of this scenario is to show basic storage capacity monitoring and to
 
 <br>
 
-### **Monitoring View**
+### **Monitoring View:**
 
 After the disk usage threshold is exceeded, Zabbix automatically detects the condition and displays it using existing monitoring components:
 
