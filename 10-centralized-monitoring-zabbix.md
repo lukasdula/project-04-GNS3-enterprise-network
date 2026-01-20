@@ -130,7 +130,7 @@ The goal is not stress testing, but a clear demonstration of how monitoring data
 
 <br>
 
-## Monitored Infrastructure
+### Monitored Infrastructure
 
 The monitored infrastructure includes key network and server components of the enterprise topology.  
 All critical network devices are added to Zabbix to provide basic availability and connectivity monitoring.
