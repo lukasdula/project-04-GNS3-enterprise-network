@@ -11,7 +11,7 @@
 This project presents an advanced Cisco-based enterprise network built in GNS3 as part of a study portfolio. 
 The network simulates a real organization with a central Headquarters site and a remote Branch site, using a realistic Layer 2 and Layer 3 design based on the OSI model and extended to application-level services.
 
-The main objective is to show consistent routing, services, and management across multiple locations. Inter-site connectivity between Headquarters and Branch provides full access to internal networks. Dynamic routing provides stable connectivity, while NAT and PAT allow controlled Internet access from both sites without affecting internal communication. High availability at the Headquarters site is provided by VRRP on core routers, providing redundant default gateways.
+The main objective is to show consistent routing, services, and management across multiple locations. Inter-site connectivity between Headquarters and Branch is provided using a GRE tunnel, which allows full access to internal networks across both sites. Dynamic routing provides stable connectivity, while NAT and PAT allow controlled Internet access from both locations without affecting internal communication. High availability at the Headquarters site is provided by VRRP on core routers, providing redundant default gateways.
 
 Centralized monitoring is implemented using Zabbix to provide visibility of network devices, services, and system health across both sites. Remote administration is demonstrated from a SOHO-based admin workstation using SSH and PuTTY.
 
