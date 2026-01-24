@@ -8,15 +8,14 @@
 ## **Introduction and Objectives**
 
 
-Cisco-based advanced network built in GNS3 as part of a study portfolio. 
+This project presents an advanced Cisco-based enterprise network built in GNS3 as part of a study portfolio. 
+The network simulates a real organization with a central Headquarters site and a remote Branch site, using a realistic Layer 2 and Layer 3 design based on the OSI model and extended to application-level services.
 
-This project represents an enterprise network model simulating a real organization with a central Headquarters site and a remote Branch site. The design is based on a realistic Layer 2 and Layer 3 architecture using the OSI model and extends toward application-level services used in real network operation.
+The main objective is to show consistent routing, services, and management across multiple locations. Inter-site connectivity between Headquarters and Branch provides full access to internal networks. Dynamic routing provides stable connectivity, while NAT and PAT allow controlled Internet access from both sites without affecting internal communication. High availability at the Headquarters site is provided by VRRP on core routers, providing redundant default gateways.
 
-The main objective is to demonstrate how routing, services, and management operate consistently across multiple locations using an enterprise design. The project focuses on inter-site connectivity through a GRE tunnel and centralized monitoring with Zabbix, ensuring that services and network visibility are available across both Headquarters and Branch sites. Headquarters acts as the central hub of the network, while the Branch site represents a fully integrated remote office.
+Centralized monitoring is implemented using Zabbix to provide visibility of network devices, services, and system health across both sites. Remote administration is demonstrated from a SOHO-based admin workstation using SSH and PuTTY.
 
-Inter-site communication is implemented between Headquarters and Branch to provide full reachability across internal networks. Dynamic routing enables consistent connectivity, while NAT and PAT provide controlled Internet access from both locations without affecting internal communication. High availability at the Headquarters site is ensured using VRRP on core routers, providing default gateway redundancy for key VLANs. Remote administration is demonstrated from a SOHO-based admin workstation using SSH and PuTTY.
-
-The infrastructure includes two internal servers with distinct roles. One server delivers core network services such as DHCP, DNS (dnsmasq), HTTP (Apache2), and centralized logging using rsyslog. The second server is dedicated to centralized monitoring and operational visibility using Zabbix, providing real-time insight into network devices, services, and overall system health across both sites. Overall, the project presents a practical enterprise model that integrates network design, core services, centralized monitoring, and real operational use into a single, consistent solution.
+The infrastructure includes two internal servers with different roles. One server provides core network services such as DHCP, DNS (dnsmasq), HTTP (Apache2), and centralized logging using rsyslog. The second server is dedicated to monitoring with Zabbix, offering real-time insight into network operations. As a whole, the project demonstrates a practical enterprise design that combines network architecture, core services, centralized monitoring, and real-world operation in a single, consistent solution.
 
 
 <br>
