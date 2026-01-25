@@ -157,7 +157,7 @@ This enterprise project was the biggest challenge in my learning journey. It was
 
 Centralized monitoring was an important new experience for me. Using Zabbix in an enterprise model and visually observing warnings, outages, and network operation helped me understand the network much better. Centralized logging with rsyslog also added more visibility and control over the infrastructure. 
 
-This project brings together everything I learned in previous projects. I am proud of the network diagram and the overall design. Despite challenges, including the Zabbix installation and real issues described in the troubleshooting chapter, the project was completed successfully. In 2026, this project represents a strong step forward in my understanding of enterprise networking and monitoring.
+This project brings together everything I learned in previous projects. I am happy that I made progress in network design and diagram skills compared to my previous projects. including the Zabbix installation and real issues described in the troubleshooting chapter, the project was completed successfully. In 2026, this project represents a strong step forward in my understanding of enterprise networking and monitoring.
 
 
 <br>
